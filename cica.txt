@@ -2,5 +2,9 @@ Perzsa
 Savanna
 Mainecoon
 Cilu
+<<<<<<< HEAD
 Szfinx
+=======
+Burmai
+>>>>>>> Perzsa
 Házimacska
